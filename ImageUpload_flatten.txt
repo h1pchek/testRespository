@@ -1,0 +1,3 @@
+View > Tools > Print Production > Preflight
+
+Print Production  > Preflight > PDF fixups > Flatten annotations and form fields
